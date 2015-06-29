@@ -329,6 +329,17 @@ footer p {
 
 /*BEGIN RESPONSIVE ON RELAXR HOMEPAGE*/
 
+@media only screen and (max-width: 990px) {
+  header nav {
+    width: 300px;
+  }
+}
+@media only screen and (max-width: 890px) {
+  header nav {
+    width: 425px;
+  }
+}
+
 @media only screen and (max-width: 768px) {
 
     header {
